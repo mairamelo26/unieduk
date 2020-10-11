@@ -1,18 +1,68 @@
->Esse é um arquivo de template e tem como o intuito prover uma breve apresentação de seu projeto para avaliadores e mentores. Sinta-se à vontade para editar os tópicos e títulos de acordo com seu gosto ou até mesmo para deletá-lo ou sobrescreve-lo caso o queira. Cheque também o arquivo [repositorio.md](https://github.com/hackingrio/template/blob/master/repositorio.md) para saber o que acontecerá com esse repositório depois que o evento acabar.
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-# Nome do produto - 2020
-### Nome do grupo / Nome da Vertical
+## Available Scripts
 
-#### Apresentação 
+In the project directory, you can run:
 
-Use essa seção para falar sobre as motivações de seu time e, de forma breve, qual o produto que estão trabalhando. Se possível forneça **o que** seu produto é, por exemplo: Um app, uma aplicação web, gadget, dentre outros.
+### `npm start`
 
-#### O Produto
+Runs the app in the development mode.<br />
+Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 
-Adicione detalhes sobre seu produto. Levante pontos positivos, o porquê dele ser inovador, como ele se alinha com o cluster escolhido e quaisquer outras informações relevantes ao entendimento do 'porquê' e 'como' seu produto existe e atua.
+The page will reload if you make edits.<br />
+You will also see any lint errors in the console.
 
-#### Informações adicionais 
+### `npm test`
 
-Forneça informações adicionais, adicione novos tópicos ou subtópicos. Use esse arquivo como um guia rápido para manter claro os objetivos de seu projeto para os demais integrantes. Manter o foco conjunto de forma coesa lhe ajudará a criar um produto mais *sólido*.
+Launches the test runner in the interactive watch mode.<br />
+See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
 
-Tenha em mente que seu trabalho nesse repositório será avaliado por um Juri Técnico, informações sobre a tecnologia usada também são bem vindas. 
+### `npm run build`
+
+Builds the app for production to the `build` folder.<br />
+It correctly bundles React in production mode and optimizes the build for the best performance.
+
+The build is minified and the filenames include the hashes.<br />
+Your app is ready to be deployed!
+
+See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+
+### `npm run eject`
+
+**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
+
+If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+
+Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
+
+You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
+
+## Learn More
+
+You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+
+To learn React, check out the [React documentation](https://reactjs.org/).
+
+### Code Splitting
+
+This section has moved here: https://facebook.github.io/create-react-app/docs/code-splitting
+
+### Analyzing the Bundle Size
+
+This section has moved here: https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size
+
+### Making a Progressive Web App
+
+This section has moved here: https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app
+
+### Advanced Configuration
+
+This section has moved here: https://facebook.github.io/create-react-app/docs/advanced-configuration
+
+### Deployment
+
+This section has moved here: https://facebook.github.io/create-react-app/docs/deployment
+
+### `npm run build` fails to minify
+
+This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
